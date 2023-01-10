@@ -1,0 +1,4 @@
+# Multi-objective-book-recommender-system
+Processed twenty thousand book abstracts using the TF-IDF method and GloVe and compare their performances, to construct book and student profile vectors. Used LASSO to predict the ratings and popularity of a set of new books. Turned the classical consumer-centric model into a multi-stakeholder, multi-objective combinatorial optimization problem and implemented Genetic Algorithm to find books students may take interest in, and promote the lending of under-exposed books simultaneously.
+Developed a book recommendation system that offers students desired books while expanding the library’s loan volume of various books, achieving a near-even distribution of books lent to maximize the allocation of public recourse. The invented system reduced the variance of books’ lending times by 16 percent compared with the single-objective recommendation.
+The instructor is Professor Hongyi Wen from NYU Shanghai
